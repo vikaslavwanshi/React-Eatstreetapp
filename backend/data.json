@@ -1,0 +1,13 @@
+{
+  "menu": [
+    { "id": 1, "name": "Samosa", "price": 10, "description": "Indian Delicacy" },
+    { "id": 2, "name": "Ham Burger", "price": 8, "description": "Juicy burger with beef" },
+    { "id": 3, "name": "Lasangna", "price": 15, "description": "Dish from Italy with sauce" },
+    { "id": 4, "name": "Biryani", "price": 22, "description": "Rice with marinated chicken" },
+    { "id": 5, "name": "Chiken TikKA", "price": 25, "description": "Marinated minced chicken with mild spices and herbs" },
+    { "id": 6, "name": "Gulab Jamun", "price": 5, "description": "Sweet with caramel and fermented milk" },
+    { "id": 7, "name": "Chiken Noodles", "price": 10, "description": "Noodle with fried chicken and spicy sauces" },
+    { "id": 8, "name": "Mix Veg", "price": 13, "description": "vegetables clow cooked in Indian Masala's and herbs" }
+  ],
+  "orders": []
+}
